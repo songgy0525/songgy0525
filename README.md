@@ -37,9 +37,7 @@
 | 프로젝트 | 설명 | 기술 스택 |
 |--------|------|---------|
 | [CollabCode](https://github.com/songgy0525/collabcode) | 실시간 협업 웹 IDE | Spring Boot, WebSocket, Nginx |
-| [잇말](https://github.com/songgy0525/itmal) | 언어교환 커뮤니티 플랫폼 | Spring Boot, Spring Security, JWT, MySQL |
-| [Deasy](https://github.com/songgy0525/deasy) | Dribbble 클론 디자인 커뮤니티 | React, Spring Boot, MySQL |
-| [Dev Portfolio](https://songkyeongyong.xyz) | 개인 포트폴리오 사이트 | JavaScript, GitHub Actions |
+| [채널](https://github.com/songgy0525/channel) | 실시간 채팅 + AI 챗봇 | Spring Boot, WebSocket, MySQL |
 
 ---
 
