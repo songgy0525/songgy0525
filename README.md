@@ -43,12 +43,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=songgy0525&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songgy0525&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+<div align="center">
+  <img src="https://github.com/songgy0525/songgy0525/blob/output/github-snake-dark.svg" width="100%"/>
+</div>
 
 ---
 
